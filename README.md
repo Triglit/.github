@@ -1,3 +1,5 @@
+![Triglit Banner](https://github.com/Triglit/.github/blob/main/banner.png?raw=true)
+
 ## O que é o Triglit?
 
 O **Triglit** é uma plataforma SaaS de orquestração de workflows **embedded/white-label** que permite integrar automações avançadas diretamente nos produtos dos seus clientes. Com suporte a **sub-tenants**, o Triglit permite que você ofereça multi-tenancy aos seus próprios clientes, garantindo isolamento completo de dados e execuções.
